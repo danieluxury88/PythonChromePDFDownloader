@@ -1,0 +1,14 @@
+{
+    "name": "Pdf Downloader",
+    "version": "1.0.0",
+    "description": "Download page pdfs",
+    "manifest_version": 3,
+    "author": "Daniel Proaño",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Download PDF files"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
